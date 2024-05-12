@@ -3,7 +3,7 @@ include 'components/connect.php';
 
 // Set your secret key. Remember to switch to your live secret key in production.
 // See your keys here: https://dashboard.stripe.com/apikeys
-\Stripe\Stripe::setApiKey('sk_test_51MuzHuFDnv3BUphajEyq8gqprz0TTHoN1ohYAh5hmsymWtRJksJTETN6C8cfOr26UxAed81eqNX2jgxKnYR54vy000WU4jxgLx');
+\Stripe\Stripe::setApiKey('sk_test_urrandomstripeapikeyhere');
 
 // You can find your endpoint's secret in your webhook settings
 $endpoint_secret = 'whsec_...';
