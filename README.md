@@ -2,6 +2,8 @@
 
 This repository contains the code for a full-stack website developed using HTML, CSS, PHP, JavaScript, and SQL. It features a Stripe payment integration for processing transactions.
 
+-still missing multiple folders to add, its in demo-
+
 ## Project Structure
 
 The project is organized into several directories:
