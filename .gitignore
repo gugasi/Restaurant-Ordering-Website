@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Directory for uploaded files
+uploaded_img/
+
+# SQL database files
+*.sql
+*.sqlite
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Dependency directories
+vendor/
+omnipay-master/
+
+# Composer files
+composer.lock
+/vendor/
+
+# Optional: build/compiled output
+dist/
+tmp/
+
+# Specific project folders
+admin/
+components/
+
+# Other files and folders
+*.tar
+*.zip
+*.gz
+*.rar
+*.7z
+*.log
+*.tmp
+*.swp
+.env

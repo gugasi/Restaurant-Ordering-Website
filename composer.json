@@ -1,0 +1,13 @@
+{
+    "require": {
+        "league/omnipay": "^3.2",
+        "omnipay/paypal": "^3.0",
+        "paypal/paypal-checkout-sdk": "^1.0",
+        "stripe/stripe-php": "^10.12"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
